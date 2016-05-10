@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d8a80279-c928-4845-8e1c-46141e62fc4b" name="api-wubu-105" url="http://172.20.7.105">
+        <fileTransfer host="172.20.7.105" port="22" rootFolder="/home/wwwroot/node/api.wubu.red" accessType="SFTP" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
