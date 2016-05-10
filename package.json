@@ -1,7 +1,7 @@
 {
-  "name": "jackblog-api-express",
+  "name": "wubu-api-express",
   "version": "1.3.1",
-  "description": "Jackblog API Express版",
+  "description": "wubu API Express版",
   "main": "server/app.js",
   "scripts": {
     "test": "gulp test",
@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jackhutu/jackblog-api-express.git"
+    "url": "git+https://github.com/wubu/wubu-api-express.git"
   },
   "keywords": [
     "jackblog"
   ],
-  "author": "Jack Hu",
+  "author": "wubu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jackhutu/jackblog-api-express/issues"
+    "url": "https://github.com/wubu/wubu-api-express/issues"
   },
-  "homepage": "https://github.com/jackhutu/jackblog-api-express#readme",
+  "homepage": "https://github.com/wubu/wubu-api-express#readme",
   "dependencies": {
     "bluebird": "^3.3.5",
     "body-parser": "^1.15.0",
